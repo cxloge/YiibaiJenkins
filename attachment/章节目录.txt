@@ -1,0 +1,24 @@
+YiibaiJenkins
+Jenkins教程
+
+Jenkins安装
+Jenkins Tomcat安装设置
+Jenkins Git安装设置
+Jenkins Maven安装设置
+Jenkins配置
+Jenkins管理
+Jenkins安装程序生成作业
+Jenkins单元测试
+Jenkins自动化测试
+Jenkins邮件通知
+Jenkins报表
+Jenkins代码分析
+Jenkins分布式构建
+Jenkins自动部署
+Jenkins指标与趋势
+Jenkins服务器维护
+Jenkins持续部署
+Jenkins管理插件
+Jenkins安全
+Jenkins备份插件
+Jenkins远程测试
